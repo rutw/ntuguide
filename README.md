@@ -3,6 +3,8 @@
 
 本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide/)修改而成。
 
+- 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
+
 ## 為什麼要寫這個東西？
 
 國立臺灣大學的各行政組織單位其實很像春秋戰國時代的各個諸侯國，校內的機關、處室、系所雖然表面上都圍繞著「國立臺灣大學」這個名義運作，但「國立臺灣大學」就跟周天子一樣僅僅是個吉祥物，實際上內部關係既獨立又平行。
@@ -21,3 +23,6 @@
 - Made by rutw / Recent Update: 2020 September
 - Sourse Code or Star me：https://github.com/rutw/ntudocs
 
+## 更新
+
+- ver. Alpah @ 2020-09-01, debut.

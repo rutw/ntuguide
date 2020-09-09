@@ -1,7 +1,7 @@
 
 # 那些關於台大的事情［手冊版］（ntudocs）
 
-本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.i/ntuguide/)修改而成。
+本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide/)修改而成。
 
 ## 為什麼要寫這個東西？
 

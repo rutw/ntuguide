@@ -46,4 +46,4 @@
 
 - 申請處：https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp
 
-除了 `你的學號 @ntu.edu.tw` 之外，你還可以申請一組 `你的學號 @g.ntu.edu.tw`，也就是 [G Suite](https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp)服務。不過這組由 Google 提供的電子信箱不是重點，重點是每個申請 G Suite 服務的人都可以**享用無上限的 Google Drive 和 Google Photos 儲存空間**，也就是可以把整個硬碟都丟上去備份，需要無限上傳備份空間的人可以去申請。
+除了 `你的學號 @ntu.edu.tw` 之外，你還可以申請一組 `你的學號 @g.ntu.edu.tw`，也就是 [G Suite](https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp)服務。不過這組由 Google 提供的電子信箱不是重點，~~重點是每個申請 G Suite 服務的人都可以**享用無上限的 Google Drive 和 Google Photos 儲存空間**，也就是可以把整個硬碟都丟上去備份，需要無限上傳備份空間的人可以去申請。~~ （2021/06/20 更新：無限空間沒了）

@@ -22,7 +22,7 @@
 ![](https://i.creativecommons.org/l/by-nc-nd/3.0/tw/88x31.png)
 
 - 本手冊基於 Docsify 生成，以「創用 CC 姓名標示（Attribution）- 非商業性（NonCommercial）- 禁止改作（NoDerivs） 3.0 台灣」授權條款釋出。
-- Made by rutw / Recent Update: 2020 September
+- Made by rutw / Recent Update: 2021 July
 - Sourse Code or Star me：https://github.com/rutw/ntuguide
 
 ## 更新

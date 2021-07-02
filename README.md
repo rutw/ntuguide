@@ -1,7 +1,7 @@
 
-# 那些關於台大的事情［手冊版］（ntudocs）
+# 那些關於台大的事情 Unofficail Freshman Guide for National Taiwan University
 
-本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide/)修改而成。
+本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide_sildes/)修改而成。
 
 - 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
 

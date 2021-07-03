@@ -1,9 +1,9 @@
 
 # 那些關於台大的事情 
 
-#Unofficail Freshman Guide for National Taiwan University
+# Unofficail Freshman Guide for National Taiwan University
 
-本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide_sildes/)修改而成。
+本手冊是基於原本我做的[那些關於台大的事情](http://rutw.github.io/ntuguide_sildes/)修改而成，原投影片版本將不再更新。
 
 - 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
 

@@ -1,6 +1,6 @@
 # NTU Mail@Gmail & G Suite
 
-台大的學生都會有的信箱，所有跟學校有關的信都會寄到這裡來，包括系辦的通知、課程的通知、學校的通知等等等。每個人的 Mail Address 大概長這個樣：`你的學號 @ntu.edu.tw`。
+臺大的學生都會有的信箱，所有跟學校有關的信都會寄到這裡來，包括系辦的通知、課程的通知、學校的通知等等等。每個人的 Mail Address 大概長這個樣：`你的學號 @ntu.edu.tw`。
 
 ## 該怎麼收信？
 
@@ -24,11 +24,11 @@
 
 ![](/img/gmail03.PNG)
 
-5. 在密碼那裡鍵入計中的密碼。POP 伺服器選擇~~「mail.ntu.edu.tw」~~「`msa.ntu.edu.tw`」(2020 年度起的新生開始因為改成用 Mail 1.0，所以要用[這個](http://jsc.cc.ntu.edu.tw/ntucc/email/mailsoftwaresetup.html))，通訊埠選擇 `995`，如果選項裡沒有的話，選「其他」手動鍵入。
+1. 在密碼那裡鍵入計中的密碼。POP 伺服器選擇「`msa.ntu.edu.tw`」，通訊埠選擇 `995`，詳細可以參考[這裡](https://jsc.cc.ntu.edu.tw/ntucc/email/mailsoftwaresetup.html)，如果選項裡沒有的話，選「其他」手動鍵入。
 
 ![](/img/gmail04.PNG)
 
-6. 勾選「在伺服器上保留已擷取的郵件的副本。」（否則原本在 Mail 1.0 的信會被刪掉），勾選「使用 SSL 連線。」。
+1. 勾選「在伺服器上保留已擷取的郵件的副本。」（否則原本在信箱裡的信會被刪掉），勾選「使用 SSL 連線。」。
 
 ![](/img/gmail05.PNG)
 

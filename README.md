@@ -1,7 +1,7 @@
 
 # 那些關於臺大的事情 
 
-# Unofficail Freshman Guide for National Taiwan University
+# Unofficial Freshman Guide for National Taiwan University
 
 - 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
 

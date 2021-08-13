@@ -4,8 +4,6 @@
 
 其中跟臺大有關的有 [NTU （臺大板）](https://www.ptt.cc/bbs/NTU/index.html)、[NTUCousre（課程評價板）](https://www.ptt.cc/bbs/NTUcourse/index.html)、[DoubleMajor（雙轉輔板）](https://www.ptt.cc/bbs/DoubleMajor/index.html)、[NTU-Exam（考古題板）](https://www.ptt.cc/bbs/NTU-Exam/index.html)、[NTU-Textbook（二手教科書板）](https://www.ptt.cc/bbs/NTU-Textbook/index.html)等，其中有幾個版至今仍相當活耀，不會善用的話就是你的損失了。
 
-此外，目前 (2020) PTT 只剩下以 `～@ntu.edu.tw` 開頭的信箱可以註冊。換句話說只有臺大教職員工生可以註冊進入，各位的信箱可說非常寶貴。
-
 ## 連線方法
 
 - 方法一：利用 PCMan

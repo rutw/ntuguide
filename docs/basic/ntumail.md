@@ -4,7 +4,7 @@
 
 ## 該怎麼收信？
 
-最簡單的就是用[學校的官方信箱](http://ntumail.cc.ntu.edu.tw/)（https://ntumail.cc.ntu.edu.tw/ ），或者是你也可以用 Gmail 來收信，這個方法比較推薦，因為學校的信箱介面實在太悲劇了。原本 2019 年之前入學的學生好歹還是用 WebMail 2.0，到了 2020 年這屆的新生就只剩下 WebMail 1.0 了，大概是 Micro$oft 又漲價了吧。所以這裡還是強烈推薦改用 Gmail 來收信。
+最簡單的就是用[學校的官方信箱](http://ntumail.cc.ntu.edu.tw/)（https://ntumail.cc.ntu.edu.tw/ ），或者是你也可以用 Gmail 來收信，這個方法比較推薦，因為學校的信箱介面實在太悲劇了。原本 2019 年之前入學的學生好歹還是用 WebMail 2.0，到了 2020 年這屆的新生就只剩下 WebMail 1.0 了，大概是 Micro$oft 又漲價了吧，所以這裡還是強烈推薦改用 Gmail 來收信。
 
 ## 使用 Gmail 收信的步驟
 
@@ -44,6 +44,6 @@
 
 ## G Suite
 
-- 申請處：https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp
+- 申請處：http://changepassword.cc.ntu.edu.tw/
 
-除了 `你的學號 @ntu.edu.tw` 之外，你還可以申請一組 `你的學號 @g.ntu.edu.tw`，也就是 [G Suite](https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp)服務。不過這組由 Google 提供的電子信箱不是重點，~~重點是每個申請 G Suite 服務的人都可以**享用無上限的 Google Drive 和 Google Photos 儲存空間**，也就是可以把整個硬碟都丟上去備份，需要無限上傳備份空間的人可以去申請。~~ （2021/06/20 更新：無限空間沒了）
+除了 `你的學號 @ntu.edu.tw` 之外，你還可以申請一組 `你的學號 @g.ntu.edu.tw`，也就是 [G Suite](https://www.cc.ntu.edu.tw/chinese/services/serv_i06.asp)服務。

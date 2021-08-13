@@ -18,6 +18,6 @@
 
 - 本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">「創用 CC 姓名標示 - 非商業性 - 禁止改作 4.0 國際 授權條款授權」</a>釋出。
 - Made by rutw
-- Latest Update: July, 2021
+- Latest Update: August, 2021
 - Sourse Code：https://github.com/rutw/ntuguide
 

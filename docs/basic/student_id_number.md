@@ -28,5 +28,5 @@
 
 ### 系級代碼
 
-可以參考這裡：[https://www.ptt.cc/bbs/NTU/M.1205178889.A.8A6.html](https://www.ptt.cc/bbs/NTU/M.1205178889.A.8A6.html)。
+可以參考這裡：[http://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/index](http://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/index) 。
 

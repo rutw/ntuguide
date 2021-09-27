@@ -27,7 +27,8 @@
 
 ## 更新
 
-- ver. Alpah @ 2020-09-01 Debut.
+- ver. Alpha @ 2020-09-01 Debut.
 - ver. Beta @ 2021-07-02 Rename and update some content.
 - ver. Gamma @ 2021-07-16 Update.
 - ver. Delta @ 2021-08-13 Update.
+- ver. Epsilon @ 2021-09-27 Update.

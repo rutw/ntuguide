@@ -33,9 +33,15 @@
       name: '那些關於臺大的事情',
       loadSidebar: true,
       loadNavbar: true,
+      auto2top: true,
       // repo: 'https://github.com/rutw/ntuguide',
       repo: '',
-      search: 'auto',
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '輸入一些關鍵字...',
+        noData: '嗚嗚，找不到ㄛ ：（',
+            }
       share: {
             facebook: true,
             twitter: true,
